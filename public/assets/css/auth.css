@@ -1,0 +1,186 @@
+/*
+* PHP Attendance Management System
+* Email: heyalexluna@gmail.com
+* Version: 1.1
+* Author: Alexis Luna
+* Copyright 2019 Alexis Luna
+* Website: https://github.com/mralexisluna/php-attendance-management-system
+*/
+
+body {
+    background: #f1f1f1;
+}
+
+.vertical-align-wrap {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+
+.vertical-align-middle {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.auth-box {
+    -moz-box-shadow: 1px 2px 10px 0 rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 1px 2px 10px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 1px 2px 10px 0 rgba(0, 0, 0, 0.1);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    width: 480px;
+    max-width: 480px;
+    height: auto;
+    margin: 0 auto;
+    background-color:#00b5ad;
+    color: #fff;
+}
+
+.auth-box .content {
+    display: inline-block;
+    vertical-align: middle;
+    *vertical-align: auto;
+    *zoom: 1;
+    *display: inline;
+    width: 99%;
+    padding: 30px;
+    vertical-align: middle;
+}
+
+.auth-box .form-auth-small .btn {
+    margin-top: 20px;
+}
+
+.auth-box .form-auth-small .element-left {
+    float: left;
+}
+
+.auth-box .form-auth-small .element-right {
+    float: right;
+}
+
+.auth-box .form-auth-small .bottom {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.auth-box .lead {
+    margin: 10px 0;
+    font-size: 18px;
+    text-align: center;
+}
+
+.auth-box .helper-text {
+    font-size: 13px;
+    color: #EEEEEE;
+}
+
+.auth-box .helper-text a {
+    color: #B3E5FC;
+}
+
+.auth-box .btn-signin-social {
+    display: block;
+    margin-bottom: 15px;
+    padding: 10px 22px;
+    width: 100%;
+    background-color: #fff;
+    border-color: #e4ecf0;
+}
+
+.auth-box .btn-signin-social:hover,
+.auth-box .btn-signin-social:focus {
+    background-color: #fafafa;
+}
+
+.auth-box .btn-signin-social i {
+    font-size: 16px;
+    margin: 5px;
+}
+
+.auth-box.lockscreen {
+    width: 50%;
+    padding: 40px 60px;
+}
+
+.auth-box.lockscreen .logo {
+    margin-bottom: 30px;
+}
+
+.auth-box.lockscreen .user {
+    margin-bottom: 30px;
+}
+
+.auth-box.lockscreen .user .name {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.logo.align-center {
+    text-align: center;
+}
+
+.logo img {
+    max-width: 270px !important;
+}
+
+.color-white {
+    color: #fff !important;
+}
+
+.help-block {
+    display: block;
+    margin: 5px 0;
+    color: #fff;
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+.has-error .help-block {
+    color: #fff;
+}
+
+@media screen and (min-width: 1440px) {
+    .auth-box.lockscreen {
+        width: 35%;
+    }
+}
+
+@media screen and (max-width: 1279px) {
+    .auth-box {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .auth-box {
+        width: 70%;
+    }
+
+    .auth-box.lockscreen {
+        width: 50%;
+        padding: 40px 20px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .ui.form .fields {
+        margin: 0 -.5em 1em;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .auth-box {
+        width: 90%;
+    }
+
+    .auth-box .content {
+        width: 95%;
+    }
+
+    .auth-box.lockscreen {
+        width: 90%;
+    }
+}
