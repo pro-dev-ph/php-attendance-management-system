@@ -66,7 +66,7 @@ For every paid subscription, you are already contributing to fund PHP Attendance
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within PHP Attendance Management System, please send an e-mail to Alexis Luna via [heyalexluna@gmail.com](mailto:heyalexluna@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within PHP Attendance Management System, please submit a pull request. All security vulnerabilities will be promptly addressed.
 
 ## License
 
