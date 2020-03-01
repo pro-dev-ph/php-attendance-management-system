@@ -1,6 +1,6 @@
 # About PHP Attendance Management System
 
-PHP Attendance Management System is a Time and Attendance Management Platform designed to help HR in managing employee attendance lifecycle from time tracking to scheduling and understand the true value of their Human Resources.
+PHP Attendance Management System is a time and attendance management platform designed to help HR in managing employee attendance lifecycle from time tracking to scheduling and understand the true value of their Human Resources.
 
 Benefits:
 
