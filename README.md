@@ -10,8 +10,7 @@ Benefits:
 - Make better business decisions based on contextual insights.
 - Get a full view of talent, attendance, and schedule with Timely Sheets software.
 
-
-PHP Attendance Management System is accessible, powerful, and provides tools required for companies.
+PHP Attendance Management System provides complete attendance visibility into your global workforce in real-time and a better user experience, so you can keep your people engaged and help them grow.
 
 ## Getting started
 
