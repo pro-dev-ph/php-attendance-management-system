@@ -36,10 +36,6 @@ PHP Attendance Management System provides complete attendance visibility into yo
 If you are running on local development, we recommend using `AMPPS` stack which has all the system requirements [Download AMPPS](https://www.ampps.com/downloads) available in Windows, Mac, Linux Installers.
 
 ## Screenshots
-
-PHP Attendance Management System is a user-friendly, intuitive Time and Attendance Management Platform that provides smoothly integrated essential HR Time and Attendance functionality, Talent Management, Leave Management, Schedule Management, Time tracking, People Analytics, Reporting and more... 
-
-#### Manager Dashboard
 ![PHP Attendance Management System - Manager Dashboard](https://i.postimg.cc/5NbGZpJY/manager-dashboard.png)
 
 ## Supporting PHP Attendance Management System
@@ -62,6 +58,8 @@ Get paid support subscription starting at `$300` for 6 months or extend up to 12
 4. Get assistance with customization and installation.
 
 For every paid subscription, you are already contributing to fund PHP Attendance Management System development. Please contact me using the contact option below or please visit the PHP Attendance Management System [Patreon page](https://github.com/mralexisluna/php-attendance-management-system)
+
+PHP Attendance Management System is a user-friendly, intuitive time and attendance management platform that provides smoothly integrated essential HR time and attendance functionality, talent management, leave management, schedule management, time tracking, people analytics, reporting and more...
 
 ## Security Vulnerabilities
 
