@@ -67,4 +67,4 @@ If you discover a security vulnerability within PHP Attendance Management System
 
 The PHP Attendance Management System is open-source software licensed under the [Apache license 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-Copyright (c) 2019-present, Alexis Luna
+Copyright (c) 2019-present, Pro Dev Ph
